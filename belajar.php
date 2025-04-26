@@ -39,6 +39,8 @@ echo $mobil2->info();
 echo "<br>";
 echo $mobil2->tambahKecepatan(100);
 
+echo "ravi pejuang";
+
 
 
 
