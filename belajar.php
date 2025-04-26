@@ -78,6 +78,8 @@ echo"nama";
 // yang kedua git commit -m "pesan apa yang ingin kamu sampaikan"
 // yang ketiga pake git push  dah selesai
 
+echo "ravi pejuang";
+
 
 
 
