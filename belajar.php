@@ -40,6 +40,16 @@ echo "<br>";
 echo $mobil2->tambahKecepatan(100);
 
 echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
+echo "ravi pejuang";
 
 
 
